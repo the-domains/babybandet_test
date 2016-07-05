@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Babybandet]]></title>
-        <description><![CDATA[Babybandet]]></description>
+        <title><![CDATA[BABYBANDET]]></title>
+        <description><![CDATA[BABYBANDET]]></description>
         <link>https://thegrid.ai/babybandet_test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 06:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 19:03:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/babybandet_test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Babybandet i drømmeland]]></title>
@@ -26,13 +26,6 @@
             <link>https://www.youtube.com/watch?v=3hsi3CAoAkI</link>
             <guid isPermaLink="false">6252848f-ad42-4237-ac18-bfd333cebc29</guid>
             <pubDate>Mon, 04 Jul 2016 06:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31c68fd7-6e78-4e91-bd63-fbf5eb9d3b0b.jpg">]]></description>
-            <link>https://thegrid.ai/babybandet_test/e22b43f4-e482-4d2d-af45-8fc3314c6edb/index.html</link>
-            <guid isPermaLink="false">e22b43f4-e482-4d2d-af45-8fc3314c6edb</guid>
-            <pubDate>Mon, 04 Jul 2016 06:28:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
