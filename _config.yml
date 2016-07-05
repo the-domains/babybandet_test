@@ -1,14 +1,14 @@
-layout_spectrum: 0.817668919917196
-typography_spectrum: 0.5099086773116142
+layout_spectrum: 0.19598980899900198
+typography_spectrum: 0.8288859634194523
 color:
-  brandStrength: 0.7752169612795115
-  lightness: 0.13186161639168859
-  saturation: 0.49034389783628285
-  rhythmicContrast: 0.8878685764502734
+  brandStrength: 0.6283521086443216
+  lightness: 0.22843325370922685
+  saturation: 0.6588926820550114
+  rhythmicContrast: 0.8454046188853681
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
+    - '#170F0E'
+    - '#290418'
+    - '#505217'
+    - '#FFD372'
+    - '#FFF1AF'
 name: Babybandet_TEST
