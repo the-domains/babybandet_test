@@ -1,14 +1,12 @@
 ---
-datePublished: '2016-07-05T19:13:33.099Z'
+datePublished: '2016-07-18T19:09:19.168Z'
 author: []
-dateModified: '2016-07-05T19:12:55.918Z'
+dateModified: '2016-07-18T19:09:18.433Z'
 title: ''
 description: 'Rutineret trommeslager, spiller også i Børnebanditterne'
-starred: false
 sourcePath: _posts/2016-07-05-rutineret-trommeslager-spiller-ogsa-i-bornebanditterne.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: rutineret-trommeslager-spiller-ogsa-i-bornebanditterne/index.html
 _context: 'http://schema.org'
 _type: Article
