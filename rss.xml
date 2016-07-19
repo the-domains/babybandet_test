@@ -4,7 +4,7 @@
         <description><![CDATA[BABYBANDET]]></description>
         <link>https://thegrid.ai/babybandet_test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 06:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 19:06:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/babybandet_test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,13 +54,6 @@
             <link>https://www.youtube.com/watch?v=3hsi3CAoAkI</link>
             <guid isPermaLink="false">6252848f-ad42-4237-ac18-bfd333cebc29</guid>
             <pubDate>Mon, 04 Jul 2016 06:28:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3207411-2c6e-4297-8fe4-a6c08226d625.jpg">]]></description>
-            <link>https://thegrid.ai/babybandet_test/f82ee2b4-d276-4156-a8e2-86dd5345d141/index.html</link>
-            <guid isPermaLink="false">f82ee2b4-d276-4156-a8e2-86dd5345d141</guid>
-            <pubDate>Mon, 04 Jul 2016 06:28:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
