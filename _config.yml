@@ -1,16 +1,16 @@
-layout_spectrum: 0.4264006919693202
-typography_spectrum: 0.11243629059754312
+layout_spectrum: 0.19598980899900198
+typography_spectrum: 0.8288859634194523
 color:
-  brandStrength: 0.17175859562121332
-  lightness: 0.736263714497909
-  saturation: 0.6677615395747125
-  rhythmicContrast: 0.8274984948802739
+  brandStrength: 0.6283521086443216
+  lightness: 0.22843325370922685
+  saturation: 0.6588926820550114
+  rhythmicContrast: 0.8454046188853681
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
+    - '#170F0E'
+    - '#290418'
+    - '#505217'
+    - '#FFD372'
+    - '#FFF1AF'
 name: BABYBANDET
 navigation:
   - id: 5fa7080b-0b63-40a3-85b1-833225c86a44
@@ -25,3 +25,7 @@ navigation:
     url: www.babybandet.dk
     name: Gamle website
     type: external
+  - id: 05e08585-7b39-4c80-bb5e-b29755a1aec0
+    url: 2016-07-05-babybandet-i-drommeland.html
+    name: Babybandet i drømmeland
+    type: content
